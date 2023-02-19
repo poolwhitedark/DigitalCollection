@@ -1,6 +1,6 @@
 # Java数字藏品已上文昌链
 Java版本数字藏品源码+BSN文昌链
-需要源码请联系
+需要源码请加
 qq：1272575342
 # 前端演示：
 <img width="284" alt="image" src="https://user-images.githubusercontent.com/45068167/187404826-a4a491ec-fd7e-4173-9e16-bfa2069d5239.png">
