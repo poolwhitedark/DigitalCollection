@@ -2,6 +2,7 @@
 Java版本数字藏品源码+BSN文昌链
 需要源码请加
 qq：1272575342
+价格999一套，可以先发代码，再付钱，可二开商用，也可用作学习使用
 # 前端演示：
 <img width="284" alt="image" src="https://user-images.githubusercontent.com/45068167/187404826-a4a491ec-fd7e-4173-9e16-bfa2069d5239.png">
 <img width="285" alt="image" src="https://user-images.githubusercontent.com/45068167/187404905-6972353a-6e2c-49de-886c-c2bba15bbb46.png">
